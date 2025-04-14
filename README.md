@@ -8,12 +8,6 @@ A modern and responsive sentence builder quiz application built with **Vite + Re
 
 ---
 
-## 📸 Preview
-
-![App Screenshot](./preview.png) <!-- Replace with a real screenshot if available -->
-
----
-
 ## ✨ Features
 
 - 📝 Interactive fill-in-the-blank sentence questions
