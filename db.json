@@ -1,0 +1,17 @@
+{
+    "questions": [
+      {
+        "questionId": "1",
+        "question": "The company's _____________ approach to product development _____________ customer feedback at every stage, _____________ user satisfaction and _____________ a loyal consumer base.",
+        "options": ["Incorporated", "User-centric", "Enhancing", "Cultivating"],
+        "correctAnswer": ["User-centric", "Incorporated", "Enhancing", "Cultivating"]
+      },
+      {
+        "questionId": "2",
+        "question": "The _____________ musical performance _____________ elements from various genres, _____________ the audience with its unique sound and _____________ critical acclaim from industry experts.",
+        "options": ["Innovative", "Blended", "Captivated", "Garnered"],
+        "correctAnswer": ["Innovative", "Blended", "Captivated", "Garnered"]
+      }
+    ]
+  }
+  

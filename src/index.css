@@ -1,0 +1,127 @@
+.quiz-container {
+    max-width: 700px;
+    margin: 2rem auto;
+    padding: 1rem;
+    background-color: #ffffff;
+  }
+  
+  .main-title {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #ef4444;
+    margin-bottom: 1.5rem;
+  }
+  
+  .quiz-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1rem;
+  }
+  
+  .question-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .next-button {
+    margin-top: 2rem;
+    padding: 0.6rem 1.5rem;
+    background-color: #22c55e;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .next-button:disabled {
+    background-color: #a3a3a3;
+    cursor: not-allowed;
+  }
+  
+  .loading {
+    text-align: center;
+    margin-top: 3rem;
+    font-size: 1.25rem;
+  }
+
+  /* Container */
+.result-container {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 32px;
+    background-color: #ffffff;
+    font-family: 'Inter', sans-serif;
+    color: #1f2937; /* Neutral 800 */
+  }
+  
+  /* Title */
+  .result-title {
+    font-size: 32px;
+    font-weight: 700;
+    margin-bottom: 24px;
+    color: #111827; /* Neutral 900 */
+  }
+  
+  /* Score */
+  .result-score {
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 32px;
+    color: #374151; /* Neutral 700 */
+  }
+  
+  /* Questions List */
+  .result-list {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  /* Individual Question */
+  .result-question {
+    border: 1px solid #e5e7eb; /* Neutral 200 */
+    padding: 20px;
+    border-radius: 8px;
+    background-color: #f9fafb; /* Neutral 50 */
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+  }
+  
+  /* Question Text */
+  .question-text {
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 12px;
+    color: #1f2937; /* Neutral 800 */
+  }
+  
+  /* Answers */
+  .correct-answer {
+    color: #10b981; /* Green 500 */
+    font-weight: 500;
+  }
+  
+  .wrong-answer {
+    color: #ef4444; /* Red 500 */
+    font-weight: 500;
+  }
+  
+  /* Restart Button */
+  .restart-button {
+    margin-top: 40px;
+    padding: 12px 24px;
+    background-color: #3b82f6; /* Blue 500 */
+    color: #ffffff;
+    border: none;
+    border-radius: 6px;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .restart-button:hover {
+    background-color: #2563eb; /* Blue 600 */
+  }
+  
+  
